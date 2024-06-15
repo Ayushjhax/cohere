@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "langchain": "^0.2.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
